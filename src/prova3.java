@@ -10,9 +10,7 @@ public class prova3 {
                 System.out.print(j + " ");
             }
             System.out.println();
-        }
-                                //refazer sozinhaaaaaaaaa!!!  //1 12 123 1234 12345
-
+        }             
     }
 }
 
